@@ -1,3 +1,5 @@
 This is beginning of the file
 
 This is the second additions.
+
+I tried to add next line
